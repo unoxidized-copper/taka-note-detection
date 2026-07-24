@@ -6,6 +6,12 @@ This project detects the denomination of a Bangladeshi Taka note from an image. 
 When you send an image to the API, it tells you which note it is (like 100 taka), how confident the model is, and the bounding box of the note in the image.
 
 
+**Live link**
+
+https://taka-note-api-953584645385.us-central1.run.app/docs
+
+
+
 **What it can detect**
 
 The model knows 8 classes: **2 taka, 5 taka, 10 taka, 20 taka, 50 taka, 100 taka, 500 taka, 1000 taka**.
